@@ -1,1 +1,15 @@
-
+<div id="header" style="background: url('/courses/5/files/218/preview'); width: 100%; height: auto;">
+    <div class="content-box" style="margin: auto; align-items: center; justify-content: center; height: 100%; padding: 3rem;">
+        <p style="text-align: center;">&nbsp;</p>
+        <p style="text-align: center;">&nbsp;</p>
+        <h2 style="color: white; margin: auto; text-align: center;"><strong>Congratulations!</strong></h2>
+        <p style="text-align: center;">&nbsp;</p>
+        <p style="text-align: center;">&nbsp;</p>
+        <h2 style="color: white; margin: auto; text-align: center;">You have completed</h2>
+        <h2 style="color: white; margin: auto; text-align: center;"><strong>Module 1</strong></h2>
+        <p style="text-align: center;">&nbsp;</p>
+        <p style="color: white; border: 1px solid white; border-radius: 12px; padding: 1px; margin: auto; width: fit-content;">Go to the next page to start the assignments</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    </div>
+</div>
